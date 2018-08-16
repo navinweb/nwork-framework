@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "classmap" : [
+          "./app",
+          "./core"
+        ]
+    },
+    "require": {
+        "twig/twig": "~1.8",
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
